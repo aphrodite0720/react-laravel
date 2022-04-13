@@ -10,7 +10,7 @@
 ## About
 A crud based laravel app to learn how to integrate react and other important react feature in laravel.
 
-> A better laravel react single page app: [Ezfolio](https://github.com/arifszn/ezfolio)
+> A better laravel react single page app: [Ezfolio](https://github.com/aphrodite999/ezfolio)
 
 ## Demo ##
 [https://szn-react-laravel.herokuapp.com](https://szn-react-laravel.herokuapp.com)
@@ -29,13 +29,13 @@ A crud based laravel app to learn how to integrate react and other important rea
 - Sass
 
 ## Screenshots
-![alt text](https://raw.githubusercontent.com/arifszn/react-laravel/main/public/assets/images/screenshots/1.png)
+![alt text](https://raw.githubusercontent.com/aphrodite/react-laravel/main/public/assets/images/screenshots/1.png)
 <br />
 <br />
 
 ***
 
-![alt text](https://raw.githubusercontent.com/arifszn/react-laravel/main/public/assets/images/screenshots/2.png)
+![alt text](https://raw.githubusercontent.com/aphrodite999/react-laravel/main/public/assets/images/screenshots/2.png)
 <br />
 <br />
 
@@ -52,7 +52,7 @@ A crud based laravel app to learn how to integrate react and other important rea
 
 ## Thank You
 
-[![Stargazers repo roster for @arifszn/react-laravel](https://reporoster.com/stars/arifszn/react-laravel)](https://github.com/arifszn/react-laravel/stargazers)
+[![Stargazers repo roster for @arifszn/react-laravel](https://reporoster.com/stars/arifszn/react-laravel)](https://github.com/aphrodite999/react-laravel/stargazers)
 
 ## Support
 
