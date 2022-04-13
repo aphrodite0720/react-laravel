@@ -62,4 +62,4 @@ Show your ❤️ and support by giving a ⭐.
 ## License
 
 <p>MIT Licensed.</p>
-<p>Copyright © <a href="https://arifszn.github.io">MD. Ariful Alam</a> 2021.</p>
+<p>Copyright © <a href="https://Aphrodite.github.io">Aphrodite999</a> 2021.</p>
